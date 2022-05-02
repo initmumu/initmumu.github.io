@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 프로그래밍 기술 블로그 시작
-published: true
 ---
 
 안녕하세요. 현재 컴퓨터공학과에 재학 중인 학부생 Mumu라고 합니다.<br>
