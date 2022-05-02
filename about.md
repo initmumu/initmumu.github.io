@@ -1,7 +1,8 @@
 ---
 layout: page
-title: initmumu?
-permalink: /aboutmumu/
+title: about initmumu
+permalink: /about/
+published: true
 ---
 ### 프로필
 * 배승호 ( Mumu )
