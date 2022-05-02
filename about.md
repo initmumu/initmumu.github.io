@@ -1,15 +1,27 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: initmumu?
+permalink: /aboutmumu/
 ---
+### 프로필
+* 배승호 ( Mumu )
+* 남자
+* 1998월 11월 28일 출생
+* 백엔드 개발자
 
-Some information about you!
+### 학력 및 경력
+* (2017.02) 진접고등학교 졸업
+* (2017.02) 경희대학교 컴퓨터공학과 입학
+* (2022.01) 경희대학교 컴퓨터공학과 학술 동아리 TGWinG 교육부장
+* (2022.03) 경희대학교 데이터 및 지식 공학 연구실 학부연구생
 
-### More Information
+### 참여 프로젝트
 
-A place to include any other types of information that you'd like to include about yourself.
+* (2020) 경희대학교 국제캠퍼스 버스앱
+* (2021) 인디 작곡가-가수 협업 모집 커뮤니티
+* (2022) 대학 커뮤니티 플랫폼
 
-### Contact me
+### 연락 정보
 
-[email@domain.com](mailto:email@domain.com)
+* Github: https://github.com/initmumu
+* 이메일: bshookhu@khu.ac.kr
