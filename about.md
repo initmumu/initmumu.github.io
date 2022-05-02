@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about initmumu
+title: about
 permalink: /about/
 published: true
 ---
