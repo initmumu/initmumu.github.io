@@ -1,8 +1,7 @@
 ---
 layout: page
-title: about
+title: mumu?
 permalink: /about/
-published: true
 ---
 ### 프로필
 * 배승호 ( Mumu )
