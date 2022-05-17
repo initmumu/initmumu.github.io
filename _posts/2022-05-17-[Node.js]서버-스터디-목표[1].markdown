@@ -17,13 +17,11 @@ categories: Node.js-server-study
   * RDBMS와 유사한 기능을 가진 Data Management System을 구현
   * Only Python
   
-<br>
-
 * 오픈소스 SW 개발 Project
   * 인디 작곡가 - 가수 협업 커뮤니티
   * Back-end: Node.js express
   * Front-end: Vanila Front Language (HTML, CSS, JS)
   * Database: Mysql
   * Deploy: Nginx
-
-<img src = https://user-images.githubusercontent.com/96606378/168890403-7e7891c1-7f2b-4ffa-9d9e-8c771e7ebd3c.png style = "text-align : center">
+  
+![]({{site.baseurl}}/images/2205171743/1.png)
