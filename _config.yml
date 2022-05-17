@@ -1,7 +1,7 @@
 title: Online lab - MUMU
 description: Online lab of MUMU
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "initmumu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://initmumu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    Mumu
