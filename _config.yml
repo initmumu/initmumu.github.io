@@ -51,3 +51,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+repository: "initmumu/initmumu.github.io"
+
+comments:
+  provider: "utterances"
+  utterances: "github-light"
+  issue_term: "pathname"
