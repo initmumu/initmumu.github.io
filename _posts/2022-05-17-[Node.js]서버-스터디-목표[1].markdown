@@ -1,10 +1,29 @@
 ---
 layout: post
-title: "[Node.js]서버 스터디 목표"
+title: "[Node.js] 서버 스터디 개인 계획"
 image: node.png
 date: 2022-05-17 17:43:00 +0900
 tags: [Node.js, server]
 categories: Node.js-server-study
 ---
-노드 스터디 글 내용
+## 자기 소개
 
+|이름|학번|직업|학력|동아리|
+|:-:|:-:|:-:|:-:|:-:|
+|배승호|17|DKE 학부연구생|경희대학교 컴퓨터공학과 재학|T.G.WinG|
+
+## 프로젝트 경력
+* Web/Python Programming Term Project
+  * RDBMS와 유사한 기능을 가진 Data Management System을 구현
+  * Only Python
+  
+<br>
+
+* 오픈소스 SW 개발 Project
+  * 인디 작곡가 - 가수 협업 커뮤니티
+  * Back-end: Node.js express
+  * Front-end: Vanila Front Language (HTML, CSS, JS)
+  * Database: Mysql
+  * Deploy: Nginx
+
+<img src = https://user-images.githubusercontent.com/96606378/168890403-7e7891c1-7f2b-4ffa-9d9e-8c771e7ebd3c.png style = "text-align : center">
