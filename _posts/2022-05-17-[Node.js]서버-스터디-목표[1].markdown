@@ -10,7 +10,7 @@ categories: "Nodejs server study"
 ### MUMU
 * 이름: 배승호
 * 생일: 1998년 11월 28일
-* 학번: 17 학번
+* 학번: 17 학번<br>
 
 ### 학력 및 경력
 * (2017.2) 진접고등학교 졸업
@@ -22,22 +22,35 @@ categories: "Nodejs server study"
 # 프로젝트 경력
 ### Web/Python Programming Term Project
 * RDBMS와 유사한 기능을 가진 Data Management System을 구현
+* 2020년 하반기
 * Only Python<br>
+
+### 디자인적사고 Project
+* 경희대학교 국제캠퍼스 버스 정류장 알림 앱
+* 2020년 하반기
+* Kotlin Android
+* Google Maps Api
+* No Server Client (Only Local Data)<br>
+
+##### 주요 개발 파트
+* UI/UX
+* Sending Local Data to Front<br>
 
 ### 오픈소스 SW 개발 Project
 * 인디 작곡가 - 가수 협업 커뮤니티
+* 2021년 하반기
 * Back-end: Node.js express
 * Front-end: Vanila Front Language (HTML, CSS, JS)
 * Database: Mysql
 * Deploy: Nginx<br>
 
-#### 주요 개발 파트
+##### 주요 개발 파트
 * 실시간 채팅 기능
   * Web Socket
 * 개인 프로필 기능
   * Database
   * File upload Protocol
-  * Image resizing
+  * Image resizing<br>
 
   
 ![]({{site.baseurl}}/images/2205171743/1.png)
