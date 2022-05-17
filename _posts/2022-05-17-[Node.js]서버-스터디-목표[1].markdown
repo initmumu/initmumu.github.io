@@ -4,24 +4,40 @@ title: "[Node.js] 서버 스터디 개인 계획"
 image: node.png
 date: 2022-05-17 17:43:00 +0900
 tags: [Node.js, server]
-categories: Node.js-server-study
+categories: "Node.js server study"
 ---
-## 자기 소개
+# 자기 소개
+### MUMU
+* 이름: 배승호
+* 생일: 1998년 11월 28일
+* 학번: 17 학번
 
-|이름|학번|직업|학력|동아리|
-|:-:|:-:|:-:|:-:|:-:|
-|배승호|17|DKE 학부연구생|경희대학교 컴퓨터공학과 재학|T.G.WinG|
+### 학력 및 경력
+* (2017.2) 진접고등학교 졸업
+* (2017.2) 경희대학교 컴퓨터공학과 입학
+* (2020.7) 사회복무요원 소집해제
+* (2022.1) 경희대학교 컴퓨터공학과 학술동아리 T.G.WinG 교육부장
+* (2022.3) 경희대학교 데이터 및 지식 공학 연구실 학부연구생<br>
 
-## 프로젝트 경력
-* Web/Python Programming Term Project
-  * RDBMS와 유사한 기능을 가진 Data Management System을 구현
-  * Only Python
-  
-* 오픈소스 SW 개발 Project
-  * 인디 작곡가 - 가수 협업 커뮤니티
-  * Back-end: Node.js express
-  * Front-end: Vanila Front Language (HTML, CSS, JS)
-  * Database: Mysql
-  * Deploy: Nginx
+# 프로젝트 경력
+### Web/Python Programming Term Project
+* RDBMS와 유사한 기능을 가진 Data Management System을 구현
+* Only Python<br>
+
+### 오픈소스 SW 개발 Project
+* 인디 작곡가 - 가수 협업 커뮤니티
+* Back-end: Node.js express
+* Front-end: Vanila Front Language (HTML, CSS, JS)
+* Database: Mysql
+* Deploy: Nginx<br>
+
+#### 주요 개발 파트
+* 실시간 채팅 기능
+  * Web Socket
+* 개인 프로필 기능
+  * Database
+  * File upload Protocol
+  * Image resizing
+
   
 ![]({{site.baseurl}}/images/2205171743/1.png)
