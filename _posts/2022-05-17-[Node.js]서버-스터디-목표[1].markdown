@@ -1,9 +1,9 @@
 ---
 layout: post
 title: [Node.js] 서버 스터디 목표
-image: 
+image: 4.jpg
 date: 2022-05-17 17:43:00 +0900
-tags:
+tags: [Node.js, server]
 categories: Node.js-server-study
 ---
 # [Node.js] 서버 스터디 목표
