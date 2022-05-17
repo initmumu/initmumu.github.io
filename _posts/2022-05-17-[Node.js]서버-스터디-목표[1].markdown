@@ -4,7 +4,7 @@ title: "[Node.js] 서버 스터디 개인 계획"
 image: node.png
 date: 2022-05-17 17:43:00 +0900
 tags: [Node.js, server]
-categories: "Node.js server study"
+categories: "Nodejs server study"
 ---
 # 자기 소개
 ### MUMU
